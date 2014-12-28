@@ -1,4 +1,3 @@
-sicp
-====
+# SICP
 
 SICP exercises using Racket.
